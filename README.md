@@ -3,6 +3,7 @@
 # Dashboard — Next.js + Tailwind + shadcn UI
 
 A responsive admin dashboard starter built with Next.js (App Router), Tailwind CSS, TypeScript and shadcn-style UI primitives. Intended as a developer-friendly boilerplate for internal admin panels, analytics dashboards and CRUD apps.
+![preview](./image.jpg)
 
 
 ## About
