@@ -4,21 +4,6 @@
 
 A responsive admin dashboard starter built with Next.js (App Router), Tailwind CSS, TypeScript and shadcn-style UI primitives. Intended as a developer-friendly boilerplate for internal admin panels, analytics dashboards and CRUD apps.
 
-## Table of contents
-
-- [About](#about)
-- [Tech stack](#tech-stack)
-- [Main features](#main-features)
-- [Demo preview](#demo-preview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Development](#development)
-- [Production build](#production-build)
-- [Project structure](#project-structure)
-- [API / Routes (overview)](#api--routes-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
